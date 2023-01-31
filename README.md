@@ -13,8 +13,11 @@ Probe is a Google Chrome browser extension that allows users to quickly summariz
 <details>
     <summary><b>Windows, Ubuntu and MacOs</b></summary>
   1. Clone the repository
+  
   2. open Google Chrome and navigate to the extensions page by visiting chrome://extensions/ or by clicking the **puzzle piece** icon and choosing **Manage extensions**
+  
   3. From the **Extensions** page, enable **Developer mode** by clicking the toggle in the page’s top-right corner.
+  
   5. Three buttons will appear in the upper half of the screen. Click **Load unpacked**, and then browse to *C:\probe\chrome*.
 </details>
 
