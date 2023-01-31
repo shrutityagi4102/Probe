@@ -12,7 +12,7 @@ Probe is a Google Chrome browser extension that allows users to quickly summariz
 
 <details>
     <summary><b>Windows, Ubuntu and MacOs</b></summary>
-  1. Clone the repository
+   1. Clone the repository
   
   2. open Google Chrome and navigate to the extensions page by visiting chrome://extensions/ or by clicking the **puzzle piece** icon and choosing **Manage extensions**
   
