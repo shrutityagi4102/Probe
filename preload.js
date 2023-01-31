@@ -7,7 +7,7 @@ chrome.runtime.onInstalled.addListener(() => {
             type: 'boolean',
             value: true,
             sort_order: 1,
-            configurable: true
+            configurable: false
         },
 
         suppress_landing: {
@@ -16,7 +16,7 @@ chrome.runtime.onInstalled.addListener(() => {
             type: 'boolean',
             value: true,
             sort_order: 2,
-            configurable: true
+            configurable: false
         },
         summary_size: {
             name: 'Summary size',
