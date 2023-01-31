@@ -4,11 +4,12 @@ Probe is a Google Chrome browser extension that allows users to quickly summariz
 
 Overall, Probe offers a convenient and efficient way to navigate and understand research papers and scientific articles over the internet.
 
+Drive Link for PPT :- https://drive.google.com/file/d/1qooGAbrg8ZjTKLWJrWrmbit588JjFdLm/view?usp=sharing
+
 ## Table of Contents
 - [Installation](#installation)
 - [Technology Stack](#technology-stack)
 - [Features](#features)
-- [Architecture Diagram](#architecture-diagram)
 - [Team](#team)
 
 ## Installation 
@@ -50,10 +51,6 @@ Overall, Probe offers a convenient and efficient way to navigate and understand 
 • Provides the user a brief analysis of the approximate reading time that was saved.
 
 • Allows users to customize the summary according to their preferences by controlling the length of the summary to 0, 50, and 100 percent.
-
-## Architecture Diagram
-
-![](architecture.png)
 
 ## Team
 
